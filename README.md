@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cam-odell
-- 👀 I’m interested in Python, R Programming, SQL, Tableau
-- 🌱 I’m currently learning Python, R Programming, SQL, Tableau
+- 👀 I’m interested in Python, C++, R Programming, SQL, Tableau
 - 💞️ I’m looking to collaborate on any projects related to learning data analytics and data science
-- 📫 How to reach me ...
+- 📫 How to reach me ... cam.c.odell@protonmail.com/ccomfb@umkc.edu
 
 <!---
 cam-odell/cam-odell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
