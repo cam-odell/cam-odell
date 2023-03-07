@@ -2,8 +2,11 @@
 - 👀 I’m interested in Python, C++, R Programming, SQL, Tableau
 - 💞️ I’m looking to collaborate on any projects related to data analytics and data science
 - 📫 How to reach me ... cam.c.odell@protonmail.com/ccomfb@umkc.edu
-- 
-![image](https://user-images.githubusercontent.com/90564980/223335152-ff40e41a-31e9-4a2b-b92f-de9e08f3478e.png)
+
+![image](https://user-images.githubusercontent.com/90564980/223335351-bd4dffc6-4759-4ded-a0da-70852ec516fb.png)
+
+![image](https://user-images.githubusercontent.com/90564980/223335286-b33d116a-27cc-4e68-8bb9-0dbb1ad95417.png)
+
 
 <!---
 cam-odell/cam-odell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
