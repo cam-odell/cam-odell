@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cam-odell
-- 👀 I’m interested in Python, C++, R Programming, SQL, Tableau
-- 💞️ I’m looking to collaborate on any projects related to data analytics and data science
+- 👀 I’m interested in Python, C++, R Programming, SQL
 
 
 ### :hammer_and_wrench: Languages and Tools :
