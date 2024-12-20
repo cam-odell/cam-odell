@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @cam-odell
-- 👀 I’m interested in Python, C++, R Programming, SQL
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <!---
