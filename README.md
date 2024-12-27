@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @cam-odell
+- I work mainly with Python and SQL
 
 ### :hammer_and_wrench: Languages and Tools :
 <!---
