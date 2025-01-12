@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @cam-odell
+- [https://www.linkedin.com/feed/](https://www.linkedin.com/in/cameron-o-dell/)
 - https://leetcode.com/u/cameroncodell/
 - Aspiring Data Scientist
 ### :hammer_and_wrench: Languages and Tools : Python, SQL
